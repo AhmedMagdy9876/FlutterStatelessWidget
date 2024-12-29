@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_stateless_widget/labeledTwoImages.dart';
 
-String firstImagePath = "images/puck.jpg";
+String firstImagePath = "assets/images/puck.jpg";
 Uri secondImageUri = Uri.parse("https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/603px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg");
 
 void main() {
